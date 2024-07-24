@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @satishsangwan
+ **Hi there, 👋  I’m @Satish**
 - 👀 I’m interested in Data exploration, analysis, visualization and insights 
 - 🌱 I’m currently learning Microsoft Excel
 - 💞️ I’m looking to collaborate on Data Analytics Projects
